@@ -20,7 +20,7 @@ that is intuitive, user-friendly, and engaging.
 1. Divide your group into pairs and conduct a _stakeholder interview_ with your client
    to help determine what they need from their home page/mobile app.
 2. Based on the results of that interview, you will work together to define user
-   personas, a backlog, and an initial design in Figma.
+   personas, a backlog, and an paper prototype.
 3. Using that design your partner will conduct a _user interview_ with each of
    your remaining group mates.
 4. Based on the results of the user interviews, your partner will suggest
