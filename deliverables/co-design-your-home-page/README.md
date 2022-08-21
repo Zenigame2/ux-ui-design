@@ -80,7 +80,7 @@ To learn more about forking, check out [this video](https://www.youtube.com/watc
   - [ ] user personas
   - [ ] user interviews (_other group members feedback on the design_)
   - [ ] backlog
-  - [ ] Figma document
+  - [ ] Paper prototype
   - [ ] design retrospective
 
 ---
