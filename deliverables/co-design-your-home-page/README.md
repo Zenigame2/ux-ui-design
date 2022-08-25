@@ -78,9 +78,9 @@ To learn more about forking, check out [this video](https://www.youtube.com/watc
 - `/planning`
   - [ ] stakeholder interviews (_the person who's page you are designing_)
   - [ ] user personas
-  - [ ] user interviews (_other group members feedback on the design_)
   - [ ] backlog
   - [ ] Paper prototype
+  - [ ] Test (_other group members feedback on the design_)
   - [ ] design retrospective
 
 ---
