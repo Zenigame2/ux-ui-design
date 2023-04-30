@@ -20,7 +20,7 @@
 
 ### During Class
 
-[the slide show & lesson plan is here](https://www.figma.com/file/SdMu1uJdk36DMScylFWT9e/HackYourFuture?node-id=304%3A533)
+[the slide show & lesson plan is here](https://www.figma.com/proto/YQXkg8QbS9nF6LAUIiysw4/Untitled?page-id=0%3A1&node-id=0-209&viewport=1195%2C426%2C0.1&scaling=contain)
 
 <!--
 
